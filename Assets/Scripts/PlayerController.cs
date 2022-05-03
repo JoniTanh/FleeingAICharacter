@@ -31,6 +31,11 @@ public class PlayerController : MonoBehaviour
     private void Update()
     {
         Movement();
+
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
     }
 
     void Movement()
