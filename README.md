@@ -8,3 +8,4 @@ Player movement:
 - press 'space' to jump
 - press 'aswd' or arrow keys to move
 - rotate camera with mouse
+- press 'escape' (ESC) to quit the game
